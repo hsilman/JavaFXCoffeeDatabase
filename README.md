@@ -1,6 +1,8 @@
 # JavaFXCoffeeDatabase
 Simple coffee bean tracker, using an editable tableview for the GUI and Amazon RDS MySQL instance for data storage.
 
+![Screen Shot](https://github.com/hsilman/JavaFXCoffeeDatabase/blob/master/coffeedb.png)
+
 This is my first project to help learn how to connect to a remote database and use SQL queries in Java. I also designed the GUI using JavaFX.
 It is very simple, and reminds me of a business application from the late 90s/early 00s.
 
